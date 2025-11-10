@@ -14,3 +14,5 @@ This script automates the transfer of synchronized Google Drive files (from `~/L
 cd ~/Git
 git clone https://github.com/opprDev/move-drive-to-icloud.git
 cd move-drive-to-icloud
+./move_drive_to_icloud.sh
+```
