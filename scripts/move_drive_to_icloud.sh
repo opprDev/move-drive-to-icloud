@@ -5,8 +5,8 @@
 # Author: Francisco Maria Calisto
 # Date: November 10, 2025
 
-SRC="/Users/francisco/Library/CloudStorage/GoogleDrive-francisco.mcalisto@gmail.com/My Drive/Git"
-DEST="/Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Backups/indis_google_drive_git_folder_10112025"
+SRC="/Users/francisco/Library/CloudStorage/GoogleDrive-francisco.mcalisto@gmail.com/My Drive/Backups"
+DEST="/Users/francisco/Library/Mobile Documents/com~apple~CloudDocs/Backups/findis_google_drive_backups_folder_10112025"
 
 echo "DOING: Starting file transfer from Google Drive to iCloud..."
 echo "From: $SRC"
